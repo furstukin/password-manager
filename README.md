@@ -1,7 +1,7 @@
 # password-manager
-Customizable password generator and manager.
-
 Password Manager - by Furstukin
+
+Customizable password generator and manager.
 
 V1.0
 
