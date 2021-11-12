@@ -10,6 +10,7 @@ Installer will install package to a folder named Password Manager in the locatio
 Start the program by running PasswordManager.exe
 
 V2.0
+
 Added a search option in addition to the list selection.
 
 Added a copy password button.
