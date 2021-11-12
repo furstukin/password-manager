@@ -9,6 +9,19 @@ Installer will install package to a folder named Password Manager in the locatio
 
 Start the program by running PasswordManager.exe
 
+V2.0
+Added a search option in addition to the list selection.
+
+Added a copy password button.
+
+Password file and settings files are now saved as encrypted configuration files so they can not be viewed outside the program.
+
+You now have to enter a password to open the password generator.
+
+The first time you use the program a DEFAULT password will be used.
+
+If you forget your password, you an use your default email to unlock the program.
+
 
 USAGE NOTES:
 
